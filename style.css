@@ -1,0 +1,35 @@
+
+.input-bold{
+    border: 2px solid;
+    border-radius: 10px;
+}
+.table-1{
+    width: 75%;
+    height: 80px;
+    background-color: bisque;
+    border-radius: 20px;
+    padding-top: 20px;
+
+}
+.table-2{
+    margin-top: 5px;
+    
+}
+ul{
+    list-style-type: none;
+}
+
+table tr .td-width{
+   
+    width: 37%;
+    background-color: #B8E8FC;
+    text-align: center;
+    
+    
+}
+
+table{
+    width: 75%;
+    
+}
+
